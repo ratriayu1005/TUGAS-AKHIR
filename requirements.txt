@@ -1,5 +1,5 @@
-numpy
+numpy == 1.24.0
 streamlit
-pandas
-pickle
-pillow
+pandas == 1.5.2
+pickle == 0.7.5
+pillow == 9.2.0
